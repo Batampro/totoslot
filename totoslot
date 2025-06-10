@@ -22,7 +22,7 @@
     <link rel="icon" type="image/x-icon" href="https://imgku.io/download/D2K0mgfS.png" />
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
     <link rel="canonical" href="https://oxfordrowingclub.org.uk/" />
-    <link rel="amphtml" href="https://masukamp.xyz/" />
+    <link rel="amphtml" href="https://oxfordrowingclub.web.app/" />
     <!-- start preload -->
     <link rel="preload" href="https://imgme.pro/images/foto.jpg" as="image" />
     <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
